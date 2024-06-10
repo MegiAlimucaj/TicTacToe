@@ -1,5 +1,3 @@
-# TicTacToe
-
 # Tic-Tac-Toe
 
 ## Description
